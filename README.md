@@ -14,4 +14,4 @@ MIT
 
 **Free Software, Hell Yeah!**
 **Give a Star its free :)**
-**Special Thanks to Mformine.org!**
+**Special Thanks to Facebamm!**
